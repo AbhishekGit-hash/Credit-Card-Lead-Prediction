@@ -25,6 +25,8 @@ The dataset consisted the following attributes :
 ## :page_with_curl: Technical Overview
 The project has been divided into the following steps :
 ### 1. Exploratory Data Analysis
+In this step features having missing values and outliers, target variable distribution, numerical feature distribution, categorical feature distribution, Univariate and Bivariate Analysis was performed.<br>
+Some of the data insights are given below. _(For the detail EDA please refer to the [ipyb notebook]())_
 ### 2. Data Cleaning
 - The Missing Value in the **Credit_Product** column is imputed with **No_Info**
 ### 3. Feature Engineering
