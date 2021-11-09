@@ -46,7 +46,7 @@ The project has been divided into the following steps :
 ## 	:clipboard: Results
 ### 1. Feature Correlations
 **Age** and **Vintage** has highest correlation (__0.63__) in train dataset and (__0.62__) in test dataset. <br>
-<img src="Visualizations/FEcorr.PNG" height="400" align="middle"><br>
+<img src="Visualizations/FEcorr.PNG" height="350" align="middle"><br>
 ### 2. Feature Importance
 #### XGBoost
 In the **XGBoost** model, the top 5 features of importance are : **Avg_Account_Balance**, **Vintage**, **Age**, **Is_Active_No** and **Credit_Product_Yes**.<br>
