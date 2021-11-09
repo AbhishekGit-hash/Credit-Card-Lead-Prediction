@@ -35,7 +35,7 @@ The project has been divided into the following steps :
 * In Modelling both LightGBM and Xgboost is used. 
 * For combining the predictions made by XGBoost and Light GBM, stacking is used
 * The models are tuned using Randomized Search CV
-* To prevent overfitting 5 kfold cross validation was performed
+* To check for overfitting 5 kfold cross validation was performed
 
 ### :open_book: [Approach Document.pdf](https://github.com/AbhishekGit-hash/Credit-Card-Lead-Prediction/blob/master/Approach%20Document.pdf)
 
