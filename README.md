@@ -49,6 +49,8 @@ The project has been divided into the following steps :
 <img src="Visualizations/FEcorr.PNG" height="400" align="middle"><br>
 ### 2. Feature Importance
 #### XGBoost
+In the **XGBoost** model, the top 5 features of importance are : **Avg_Account_Balance**, **Vintage**, **Age**, **Is_Active_No** and **Credit_Product_Yes**.<br>
 <img src="Visualizations/XGboost_FE.png" height="500" align="center"><br>
 #### LightGBM
+In the **LightGBM** model, the top 5 features of importance are : **Vintage**, **Age**, **Occupation_Other**, **Avg_Account_Balance** and **Occupation_Self_Employed**.<br> 
 <img src="Visualizations/LightGBM_FE.png" height="500" align="center"><br>
