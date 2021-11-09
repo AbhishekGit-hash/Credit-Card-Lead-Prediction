@@ -35,3 +35,12 @@ The project has been divided into the following steps :
 * In Modelling both LightGBM and Xgboost is used. 
 * For combining the predictions made by XGBoost and Light GBM, stacking is used
 
+## 📈 Modelling and Evaluation
+
+## 	:clipboard: Results
+### 1. Feature Correlations
+**Age** and **Vintage** has highest correlation (__0.63__) in train dataset and (__0.62__) in test dataset. <br>
+<img src="Visualizations/FEcorr.PNG" height="400" align="middle"><br>
+### 2. Feature Importance
+<img src="Visualizations/XGboost_FE.PNG" height="400" align="middle">
+<img src="Visualizations/LightGBM_FE.PNG" height="400" align="middle"><br>
