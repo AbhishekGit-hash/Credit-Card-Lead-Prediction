@@ -31,13 +31,17 @@ The project has been divided into the following steps :
 - The categorical features (Gender, Region_Code, Occupation, Channel_Code, Credit_Product, Is_Active) were **One Hot Encoded**.
 ### 4. Oversampling (Handling Class Imbalance in Target Feature)
 - About **76.27%** customers are not interested in credit card, and about **23.72%** are interested in credit card. To address this imbalance Oversampling techniques like **SMOTE** is used.
-### 5. Modelling
+### 5. Modelling and Hyperparameter Tuning
 * In Modelling both LightGBM and Xgboost is used. 
 * For combining the predictions made by XGBoost and Light GBM, stacking is used
+* The models are tuned using Randomized Search CV
+* To prevent overfitting 5 kfold cross validation was performed
 
 ### :open_book: [Approach Document.pdf](https://github.com/AbhishekGit-hash/Credit-Card-Lead-Prediction/blob/master/Approach%20Document.pdf)
 
 ## 📈 Modelling and Evaluation
+* In this project **ROC-AUC score** was used as evaluation metric.
+* The Xgboost model gave a ROC-AUC score of 0.879 while the LightGBM model gave a ROC-AUC score of 0.876 
 
 ## 	:clipboard: Results
 ### 1. Feature Correlations
