@@ -27,12 +27,12 @@ The project has been divided into the following steps :
 ### 1. Exploratory Data Analysis
 In this step features having missing values and outliers, target variable distribution, numerical feature distribution, categorical feature distribution, Univariate and Bivariate Analysis was performed.<br>
 **Some of the data insights are given below**. _(For the detail EDA please refer to the [ipyb notebook](https://github.com/AbhishekGit-hash/Credit-Card-Lead-Prediction/blob/master/Credit%20Card%20Lead%20Prediction%20Abhishek%20Chowdhury.ipynb))_
-- Customers aged between 40-60 have greater interest in credit cards whereas customers in their 20s and 30s and less interested<br> 
-<img src="Visualizations/Age_Distribution.PNG" height="300" align="middle"><br>
-- Salaried person are less likely to take up credit cards. Only among Entrepreneur the number of customers interested to take up credit cards is more. **66%** of total Customers falling in **Entrepreneural** category in Occupation have shown interest in the past followed by **27.6%** Self Employed, **24.5%** in Others category and **16%** Salaried.There are only **2 Entrepreneurs who don't have any credit product**.<br>
-<img src="Visualizations/Occupation.png" height="300" align="middle"><br>
-- Number of Customers having credit products who are interested in Credit Card is more than those who donot have a Credit Product.<br>
-<img src="Visualizations/Credit_Product.png" height="300" align="middle"><br>
+- Customers aged between 40-60 have greater interest in credit cards whereas customers in their 20s and 30s and less interested<br><br>
+<img src="Visualizations/Age_Distribution.PNG" height="300" align="middle"><br><br>
+- Salaried person are less likely to take up credit cards. Only among Entrepreneur the number of customers interested to take up credit cards is more. **66%** of total Customers falling in **Entrepreneural** category in Occupation have shown interest in the past followed by **27.6%** Self Employed, **24.5%** in Others category and **16%** Salaried.There are only **2 Entrepreneurs who don't have any credit product**.<br><br>
+<img src="Visualizations/Occupation.png" height="400" align="middle"><br><br>
+- Number of Customers having credit products who are interested in Credit Card is more than those who donot have a Credit Product.<br><br>
+<img src="Visualizations/Credit_Product.PNG" height="400" align="middle"><br><br>
 
 ### 2. Data Cleaning
 - The Missing Value in the **Credit_Product** column is imputed with **No_Info**
