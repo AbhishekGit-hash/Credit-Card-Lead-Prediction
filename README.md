@@ -35,6 +35,8 @@ The project has been divided into the following steps :
 * In Modelling both LightGBM and Xgboost is used. 
 * For combining the predictions made by XGBoost and Light GBM, stacking is used
 
+### :open_book: [Approach Document.pdf](https://github.com/AbhishekGit-hash/Credit-Card-Lead-Prediction/blob/master/Approach%20Document.pdf)
+
 ## 📈 Modelling and Evaluation
 
 ## 	:clipboard: Results
