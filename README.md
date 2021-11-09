@@ -49,6 +49,6 @@ The project has been divided into the following steps :
 <img src="Visualizations/FEcorr.PNG" height="400" align="middle"><br>
 ### 2. Feature Importance
 #### XGBoost
-<img src="Visualizations/XGboost_FE.png" height="400" align="middle"><br>
+<img src="Visualizations/XGboost_FE.png" height="500" align="center"><br>
 #### LightGBM
-<img src="Visualizations/LightGBM_FE.png" height="400" align="middle"><br>
+<img src="Visualizations/LightGBM_FE.png" height="500" align="center"><br>
