@@ -40,7 +40,9 @@ The project has been divided into the following steps :
 ## 	:clipboard: Results
 ### 1. Feature Correlations
 **Age** and **Vintage** has highest correlation (__0.63__) in train dataset and (__0.62__) in test dataset. <br>
-<img src="Visualizations/FEcorr.PNG" height="400" align="middle"><br>
+<img src="Visualizations/FEcorr.png" height="400" align="middle"><br>
 ### 2. Feature Importance
-<img src="Visualizations/XGboost_FE.PNG" height="400" align="middle">
-<img src="Visualizations/LightGBM_FE.PNG" height="400" align="middle"><br>
+#### XGBoost
+<img src="Visualizations/XGboost_FE.png" height="400" align="middle"><br>
+#### LightGBM
+<img src="Visualizations/LightGBM_FE.png" height="400" align="middle"><br>
