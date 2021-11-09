@@ -31,8 +31,8 @@ In this step features having missing values and outliers, target variable distri
 <img src="Visualizations/Age_Distribution.PNG" height="300" align="middle"><br>
 - Salaried person are less likely to take up credit cards. Only among Entrepreneur the number of customers interested to take up credit cards is more. **66%** of total Customers falling in **Entrepreneural** category in Occupation have shown interest in the past followed by **27.6%** Self Employed, **24.5%** in Others category and **16%** Salaried.There are only **2 Entrepreneurs who don't have any credit product**.<br>
 <img src="Visualizations/Occupation.png" height="300" align="middle"><br>
-- Customers who were active in last 3 months have slightly more interest in credit cards then other customers.<br>
-<img src="Visualizations/Active.png" height="300" align="middle"><br>
+- Number of Customers having credit products who are interested in Credit Card is more than those who donot have a Credit Product.<br>
+<img src="Visualizations/Credit_Product.png" height="300" align="middle"><br>
 
 ### 2. Data Cleaning
 - The Missing Value in the **Credit_Product** column is imputed with **No_Info**
