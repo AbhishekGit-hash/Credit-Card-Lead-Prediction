@@ -54,3 +54,6 @@ In the **XGBoost** model, the top 5 features of importance are : **Avg_Account_B
 #### LightGBM
 In the **LightGBM** model, the top 5 features of importance are : **Vintage**, **Age**, **Occupation_Other**, **Avg_Account_Balance** and **Occupation_Self_Employed**.<br> 
 <img src="Visualizations/LightGBM_FE.png" height="500" align="center"><br>
+
+## :black_nib: Authors
+- Abhishek Chowdhury - [Github Profile](https://github.com/AbhishekGit-hash)
